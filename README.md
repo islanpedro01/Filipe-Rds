@@ -16,7 +16,7 @@
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Filipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Filipe-pic" height="150" style="border-radius:50px;" src="https://avatars.cloudflare.steamstatic.com/34fb87530854a4ea0906ae6914e1e0109fe102b6_full.jpg">
+  <img align="right" alt="Filipe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1019074526866309171/1019075096746397716/giphy.gif">
 </div>
 
 ##
