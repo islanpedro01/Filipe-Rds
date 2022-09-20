@@ -13,7 +13,7 @@
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Filipe-pic" height="150" style="border-radius:70%;" src="https://scontent.fjpa11-1.fna.fbcdn.net/v/t39.30808-6/293683678_412929530875118_8985298677418721897_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=L_lvuKnkniIAX-ZgF1B&_nc_ht=scontent.fjpa11-1.fna&oh=00_AT8hb7gbca_QDzWGNr2LAFDeXIwMG9QguoRIXpmA8iKTUA&oe=6323F6F5">
+  <img align="right" alt="Filipe-pic" height="150" style="border-radius:70%;" src="https://i.scdn.co/image/ab67706f00000003863b311d4b787ed621f7e696">
 </div>
 
 ##
