@@ -1,6 +1,6 @@
-### Olá , Filipe Rodrigues aqui 👋
-- Cursando TSI no IFPB 📚
-- Sempre em busca de conhecimento 🎯
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Filipe+Rodrigues;I'm+21+years+old;I'm+from+Brazil;Studying+Internet+Systems+in+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/Filipe-Rds"> 
@@ -23,7 +23,6 @@
   <a href = "mailto:rodrigues.filipe@academico.ifpb.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/Filipe-Rds/Filipe-Rds/blob/output/github-contribution-grid-snake.svg)
- 
+![Snake animation](https://github.com/Filipe-Rds/Filipe-Rds/blob/output/github-contribution-grid-snake.svg)
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
