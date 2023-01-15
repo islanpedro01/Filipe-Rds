@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Filipe+Rodrigues;I'm+21+years+old;I'm+from+Brazil;Studying+Internet+Systems+in+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div>
+<div align="center">
   <a href="https://github.com/Filipe-Rds"> 
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=Filipe-Rds&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Filipe-Rds&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Rds&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
