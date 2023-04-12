@@ -20,10 +20,11 @@
 <div style="display: inline_block"><br>
   <h2>📱 Contact</h2>
   <a href="https://www.linkedin.com/in/filipe-rds/" target="_blank"><img style="border-radius: 5px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rodrigues.filipe@academico.ifpb.edu.br"><img style="border-radius: 5px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rodrigues.filipe@academico.ifpb.edu.br"><img style="border-radius: 5px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Filipe-Rds/Filipe-Rds/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Filipe-Rds/Filipe-Rds/blob/output/github-contribution-grid-snake.svg)
+
 
  <div align="center">
   <br>
