@@ -20,7 +20,7 @@
 <br>
 <br>
 <div>
-  <h2>Social medias: </h2>
+  <h2>Social Medias: </h2>
   <a href="https://www.linkedin.com/in/filipe-rds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rodrigues.filipe@academico.ifpb.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
